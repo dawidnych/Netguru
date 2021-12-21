@@ -1,0 +1,11 @@
+.venv
+.direnv
+.idea
+
+*.egg-info
+*.pyc
+__pycache__
+.cache
+
+app.log
+.env.local
